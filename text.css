@@ -1,0 +1,22 @@
+
+
+
+      a
+      {
+        background-color: aqua;
+        color: #da5050;
+        text-decoration: none;
+    border: 200px;
+        border-radius: 40px;
+        padding: 20px;
+        text-transform: uppercase;
+        visibility: ;
+      }
+     div p { 
+        background-color: #da5050;
+        width: 200px;
+        text-overflow:ellipsis;
+white-space: nowrap;
+overflow: hidden;
+      }
+
